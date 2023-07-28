@@ -27,7 +27,7 @@ from thencon import translate
 
 [STEP 2]
 ```python
-thencon.translate(your-method(1 or 2), your text)
+thencon.translate(your_method(1 or 2), your text)
 ```
 Methods:
 - (1): Convert English to Thai
